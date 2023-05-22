@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-21 22:39+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+#: aiobot/robot/handlers/base.py:14
+msgid "Operation cancelled"
+msgstr "Operatsiya bekor qilindi"
+
+#: aiobot/robot/handlers/orders/order_product.py:35
+#: aiobot/robot/handlers/orders/order_product.py:55
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+#: aiobot/robot/handlers/orders/order_product.py:36
+msgid "Order Message"
+msgstr "Buyurtmaga sharh yozing, biz 30 daqiqa ichida +998-90-777-77-77 raqamiga javob beramiz."
+
+#: aiobot/robot/handlers/orders/order_product.py:47
+msgid "Order added to wait list"
+msgstr "Buyurtma kutish ro'yxatiga qo'shildi"
+
+#: aiobot/robot/handlers/orders/order_product.py:56
+msgid "Consultation Message"
+msgstr "Konsultatsiya so'roviga sharh yozing va biz sizga +998-90-777-77-77 raqamiga 30 daqiqa ichida javob beramiz."
+
+#: aiobot/robot/handlers/products/product_detail.py:27
+msgid "Order"
+msgstr "Buyurtma berish"
+
+#: aiobot/robot/handlers/products/product_detail.py:28
+msgid "Get a Consultation"
+msgstr "Maslahat olish"
+
+#: aiobot/robot/handlers/products/product_list.py:20
+#: aiobot/robot/handlers/users/menu.py:10
+msgid "Products"
+msgstr "Mahsulotlar"
+
+#: aiobot/robot/handlers/users/menu.py:11
+msgid "Feedback"
+msgstr "Fikr-mulohaza"
+
+#: aiobot/robot/handlers/users/menu.py:13
+msgid "Menu"
+msgstr "Menyu"
+
+#: aiobot/robot/handlers/users/menu.py:19
+msgid "Feedback Message"
+msgstr ""
+"Xabarni kiriting va biz 30 daqiqa ichida +998-90-777-77-77 raqamiga javob "
+"beramiz."
+
+#: aiobot/robot/handlers/users/register/language.py:21
+msgid "Choose language"
+msgstr "Tilni tanlang"
+
+#: aiobot/robot/handlers/users/register/language.py:41
+msgid "Input name"
+msgstr "Ismingizni kiriting"
+
+#: aiobot/robot/handlers/users/register/name_and_phone.py:14
+msgid "Getting phone number"
+msgstr "Telefon raqmingizni yuboring"
+
+#: aiobot/robot/handlers/users/register/name_and_phone.py:15
+msgid "share phone number"
+msgstr "Kontaktingizni yuboring ☎️"
+
+#: aiobot/robot/handlers/users/start.py:15
+msgid "About BioGroup"
+msgstr ""
+" - kosmetika va texnologiya sohasidagi ishonchli hamkoringiz. Biz yetakchi "
+"brendlardan sifatli va sertifikatlangan mahsulotlarning keng assortimentini "
+"taklif etamiz. Kompaniyamiz eng yangi texnologik tendensiyalarga mos "
+"keladigan zamonaviy kosmetika va go‘zallik uskunalarini ham taklif etadi. "
+"Mahsulotlarimizning sifati, xavfsizligi va ishonchliligiga kafolat beramiz. "
+"Biz bilan bog‘laning va biz sizga go‘zalligingiz va yorqinligingizni "
+"saqlashga yordam beramiz!"

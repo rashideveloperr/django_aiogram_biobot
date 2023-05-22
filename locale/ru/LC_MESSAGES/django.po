@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-21 22:39+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+#: aiobot/robot/handlers/base.py:14
+msgid "Operation cancelled"
+msgstr "Операция отменена"
+
+#: aiobot/robot/handlers/orders/order_product.py:35
+#: aiobot/robot/handlers/orders/order_product.py:55
+msgid "Cancel"
+msgstr "Отмена"
+
+#: aiobot/robot/handlers/orders/order_product.py:36
+msgid "Order Message"
+msgstr "Введите комментарий к заказу и мы ответим вам по номеру +998-90-777-77-77 в течении 30 минут"
+
+#: aiobot/robot/handlers/orders/order_product.py:47
+msgid "Order added to wait list"
+msgstr "Заказ добавлен в список ожидания"
+
+#: aiobot/robot/handlers/orders/order_product.py:56
+msgid "Consultation Message"
+msgstr "Введите комментарий к заявке на консультацию и мы ответим вам по номеру +998-90-777-77-77 в течении 30 минут"
+
+#: aiobot/robot/handlers/products/product_detail.py:27
+msgid "Order"
+msgstr "Заказать"
+
+#: aiobot/robot/handlers/products/product_detail.py:28
+msgid "Get a Consultation"
+msgstr "Получить консультацию"
+
+#: aiobot/robot/handlers/products/product_list.py:20
+#: aiobot/robot/handlers/users/menu.py:10
+msgid "Products"
+msgstr "Продукты"
+
+#: aiobot/robot/handlers/users/menu.py:11
+msgid "Feedback"
+msgstr "Обратная связь"
+
+#: aiobot/robot/handlers/users/menu.py:13
+msgid "Menu"
+msgstr "Меню"
+
+#: aiobot/robot/handlers/users/menu.py:19
+msgid "Feedback Message"
+msgstr ""
+"Введите сообщение и мы ответим вам по номеру +998-90-777-77-77 в течении 30 "
+"минут"
+
+#: aiobot/robot/handlers/users/register/language.py:21
+msgid "Choose language"
+msgstr "Выберите язык"
+
+#: aiobot/robot/handlers/users/register/language.py:41
+msgid "Input name"
+msgstr "Введите имя"
+
+#: aiobot/robot/handlers/users/register/name_and_phone.py:14
+msgid "Getting phone number"
+msgstr "Введите номер телефона"
+
+#: aiobot/robot/handlers/users/register/name_and_phone.py:15
+msgid "share phone number"
+msgstr "Отправить свой контакт ☎️"
+
+#: aiobot/robot/handlers/users/start.py:15
+msgid "About BioGroup"
+msgstr ""
+" - ваш надежный партнер в области косметики и техники. Мы предлагаем широкий "
+"ассортимент качественных и сертифицированных продуктов от ведущих брендов. "
+"Наша компания также предлагает современную косметическую и красотуехнику, "
+"соответствующую последним технологическим трендам. Мы гарантируем качество, "
+"безопасность и надежность наших продуктов. Обращайтесь к нам, и мы поможем "
+"вам сохранить вашу красоту и блеск!"
